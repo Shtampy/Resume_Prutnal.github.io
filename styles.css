@@ -1,0 +1,189 @@
+body {
+        background-color: #E5E5E5;
+        font-family: 'Montserrat Alternates', sans-serif;
+}
+/* Right section styles */
+
+.photo {
+    display: flex;    
+}
+
+.right-section {
+    padding-left: 90px;
+    padding-right: 220px;
+    background-color: #fff;
+    }
+    
+.about-me-profession {
+    
+        color: black;
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 14px;
+        line-height: 17px;     
+        margin-top: 100px;
+}
+
+#personName {
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 45px;
+        line-height: 55px;     
+        margin-top: 30px;
+}
+
+.main-section {
+    display: flex;
+    width: 1200px;
+    margin: 40px auto;    
+}
+
+.about-me-section {       
+    width: 400px;     
+}
+
+.about-me-section p {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;     
+    margin-top: 30px;
+}
+
+.projects-sections {
+   margin: 40px 0 0 0; 
+}
+
+.projects-item {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    text-decoration-line: underline;
+    color: #595959;
+    margin-left: 10px;
+}
+
+.project-item a {
+    color: #595959;
+}
+
+.projects-sections ol {
+    padding-left: 18px;
+}
+
+ol li, .bracket {
+    color: #000;
+    font-weight: 700;
+}
+
+
+
+.block-title {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;     
+    color: #000000;           
+}
+
+.work-experince-section {
+    margin-top: 50px;
+}
+
+.work-experince-position {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.work-experience-company {
+    color: #fb6d3a;
+}
+
+.work-experience-period {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #a8a8a8;
+}
+
+.work-experience-duties {
+padding-left: 18px;
+}
+
+.li {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+}
+
+ .line-break {
+    color: #000;
+ }
+/* Sidebar section */
+
+.sidebar-section {
+    background-color: #1E2939;
+    width: 345px;
+}
+.sidebar-section img {
+    margin-top: 40px;
+}
+.sidebar-title {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    color: #FFF;
+}
+.contacts-section, .tech-skills-section, .soft-skills-section {
+    margin-left: 40px;
+}
+.contacts-section-type {
+     font-style: normal;
+     font-weight: 700;
+     font-size: 14px;
+     line-height: 24px;
+     color: #fff;
+     margin-right: 10px;
+}
+.contacts-section-type {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: #fff;
+}
+
+.contacts-section-value {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: #3a4352;
+}
+
+.sidebar-list {
+    color: #fb6d3a;
+    padding-left: 20px;
+}
+.sidebar-list span {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #fff;
+}
