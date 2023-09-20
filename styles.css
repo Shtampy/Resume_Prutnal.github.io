@@ -5,7 +5,8 @@ body {
 /* Right section styles */
 
 .photo {
-    display: flex;    
+    display: flex; 
+    border-radius: 50%;    
 }
 
 .right-section {
